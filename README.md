@@ -5,7 +5,7 @@
 [![Coverage Status](https://coveralls.io/repos/markdown-it/markdown-it/badge.svg?branch=master&service=github)](https://coveralls.io/github/markdown-it/markdown-it?branch=master)
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/markdown-it/markdown-it)
 
-> Markdown parser done right. Fast and easy to extend.
+> Markdown parser done right. Fast and easy to extend. test
 
 __[Live demo](https://markdown-it.github.io)__
 
