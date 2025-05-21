@@ -9,7 +9,7 @@
 
 __[Live demo](https://markdown-it.github.io)__
 
-- Follows the __[CommonMark spec](http://spec.commonmark.org/)__ + adds syntax extensions & sugar (URL autolinking, typographer).
+- Follows the __[CommonMark spec](http://spec.commonmark.org/)__ + adds syntax extensions & sugar (URL autolinking, typographer). test
 - Configurable syntax! You can add new rules and even replace existing ones.
 - High speed.
 - [Safe](https://github.com/markdown-it/markdown-it/tree/master/docs/security.md) by default.
